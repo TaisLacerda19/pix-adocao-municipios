@@ -84,3 +84,5 @@ O período vai até outubro de 2026 e fica fixo em `etl/extrair.py`. Os dados fo
 
 - Banco Central do Brasil, [dados abertos do Pix](https://dadosabertos.bcb.gov.br/dataset/pix), licença ODbL.
 - IBGE, [SIDRA](https://sidra.ibge.gov.br), tabelas 6579 (estimativas de população) e 9514 (Censo 2022).
+
+Desenvolvido com apoio do Claude Code.
